@@ -53,7 +53,7 @@ const JoinForm: React.FC<JoinFormProps> = ({ onFormSubmit }) => {
     <div 
         className="w-full max-w-lg bg-white border border-gray-200 rounded-2xl shadow-xl p-8 md:p-12 animate-fade-in-up"
     >
-      <h2 className="text-3xl font-bold mb-4 text-center text-gray-900">انضم إلى دورة العقيدة</h2>
+      <h2 className="text-3xl font-bold mb-4 text-center text-gray-900">الانضمام إلى دورة العقيدة</h2>
       <div className="bg-gray-50 border border-gray-200 rounded-lg p-4 mb-6 text-right space-y-2 text-gray-600">
         <p><span className="font-bold text-gray-700">الموضوع:</span> شرح منظومة عقيدة العوام</p>
         <p><span className="font-bold text-gray-700">الوقت:</span> 8:15 - 8:45 pm</p>

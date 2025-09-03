@@ -15,7 +15,7 @@ const JoinButton: React.FC<JoinButtonProps> = ({ onClick }) => {
         className="relative px-8 py-4 transition-all ease-in duration-150 rounded-md group-hover:bg-opacity-0"
         style={{ backgroundColor: 'var(--bg-color)'}}
       >
-          انضم إلى الدورة الآن
+          انضم
       </span>
       <svg className="w-6 h-6 mr-2 -ml-1 transform transition-transform duration-300 group-hover:-translate-x-2 absolute left-4 opacity-0 group-hover:opacity-100" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M10 19l-7-7m0 0l7-7m-7 7h18"></path></svg>
     </button>
